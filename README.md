@@ -95,7 +95,7 @@ You can set this by running <code>chown www-data:www-data runtime</code> under t
 Now your own copy of OrangeSolutions should be up and running. You can register an account and access the system. You will see an option to upgrade yourself to an administrator if there is no administrator in the system (which is true for new installation).
 
 ## License
-Copyright 2018 Yinan Zhou, Joy White, Benjamin Allen, William Kingston, and Shi Wang
+Copyright 2018 Yinan Zhou, Joy White, Benjamin Allen, William Xiao, and Shi Wang
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
