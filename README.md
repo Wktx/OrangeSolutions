@@ -1,5 +1,5 @@
 # Welcome to OrangeSolutions
-**OrangeSolutions** is a Patient-Volunteer Management System (PVM) that allows medical professionals to service patients remotely.
+**OrangeSolutions** is a Patient Management System that allows medical professionals to service patients remotely.
 
 ## Team Members
 
