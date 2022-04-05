@@ -9,7 +9,7 @@
 
 ### Frontend Team
  - Benjamin Allen
- - William Kingston
+ - William Xiao
 
 ### Design Team
  - Shi Wang
